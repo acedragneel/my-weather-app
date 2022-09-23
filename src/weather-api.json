@@ -1,0 +1,43 @@
+{
+    "coord": {
+      "lon": -71.0912,
+      "lat": 42.3307
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 288.49,
+      "feels_like": 288.35,
+      "temp_min": 287.35,
+      "temp_max": 289.35,
+      "pressure": 1014,
+      "humidity": 87
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.6,
+      "deg": 70
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1663723798,
+    "sys": {
+      "type": 2,
+      "id": 2013408,
+      "country": "US",
+      "sunrise": 1663669774,
+      "sunset": 1663713968
+    },
+    "timezone": -14400,
+    "id": 0,
+    "name": "Roxbury Crossing",
+    "cod": 200
+  }
